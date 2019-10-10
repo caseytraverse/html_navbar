@@ -1,2 +1,2 @@
 # html_navbar
-HTML Basics assignment for Bloc
+HTML basics assignment for Bloc. Using DevTools to recreate the contents of the navbar from rebeccaatwood.com
